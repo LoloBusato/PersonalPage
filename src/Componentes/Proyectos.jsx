@@ -70,7 +70,6 @@ const Proyectos = () => {
     {hrefPage: "https://codepen.io/LoloBusato/full/BaxYPXe", hrefRep: "https://codepen.io/LoloBusato/pen/BaxYPXe", text: "Maquina de Refranes"},
     {hrefPage: "https://lolobusato.github.io/25-5-Clock/", hrefRep: "https://github.com/LoloBusato/25-5-Clock", text: "Pomodoro"},
     {hrefPage: "https://lolobusato.github.io/Drum-Machine/", hrefRep: "https://github.com/LoloBusato/Drum-Machine", text: "Batería Virtual"},
-    {hrefPage: "https://lolobusato.github.io/Markdown-Previewer/", hrefRep: "https://github.com/LoloBusato/Markdown-Previewer", text: "Markdown Vista"},
     {hrefPage: "https://lolobusato.github.io/JavaScript-Calculator/", hrefRep: "https://github.com/LoloBusato/JavaScript-Calculator", text: "Calculadora"},
     {hrefPage: "https://lolobusato.github.io/LorenzoBusato/indexEs", hrefRep: "https://github.com/LoloBusato/LorenzoBusato", text: "Lorenzo Página"},
   ];
@@ -79,7 +78,6 @@ const Proyectos = () => {
     {hrefPage: "https://codepen.io/LoloBusato/full/BaxYPXe", hrefRep: "https://codepen.io/LoloBusato/pen/BaxYPXe", text: "Quote Machine"},
     {hrefPage: "https://lolobusato.github.io/25-5-Clock/", hrefRep: "https://github.com/LoloBusato/25-5-Clock", text: "Pomodoro"},
     {hrefPage: "https://lolobusato.github.io/Drum-Machine/", hrefRep: "https://github.com/LoloBusato/Drum-Machine", text: "Drum Machine"},
-    {hrefPage: "https://lolobusato.github.io/Markdown-Previewer/", hrefRep: "https://github.com/LoloBusato/Markdown-Previewer", text: "Markdown Previewer"},
     {hrefPage: "https://lolobusato.github.io/JavaScript-Calculator/", hrefRep: "https://github.com/LoloBusato/JavaScript-Calculator", text: "Calculator"},
     {hrefPage: "https://lolobusato.github.io/LorenzoBusato/indexEs", hrefRep: "https://github.com/LoloBusato/LorenzoBusato", text: "Lorenzo Website"},
   ];
